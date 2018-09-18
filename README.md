@@ -7,3 +7,8 @@ link : https://www.udemy.com/complete-python-bootcamp/learn/v4/overview
 Python for Data Analysis and visualization is from "Python for Data Analysis and visualization" from Jose Portilla.
 
 link : https://www.udemy.com/learning-python-for-data-analysis-and-visualization/
+
+
+Python for Data Science and Machine Learning Bootcamp is from "Python for Data Science and Machine Learning Bootcamp" from Jose Portilla.
+
+link : https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
