@@ -17,3 +17,6 @@ Probability and Statistics for Business and Data Science is from "Probability an
 
 link : https://www.udemy.com/probability-and-statistics-for-business-and-data-science/
 
+Interactive Python Dashboards With plotly and Dash is from "Interactive Python Dashboards With plotly and Dash" from Jose Portilla.
+
+link: https://www.udemy.com/data-visualisation-with-plotly-and-python/
