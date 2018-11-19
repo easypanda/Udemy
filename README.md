@@ -20,3 +20,7 @@ link : https://www.udemy.com/probability-and-statistics-for-business-and-data-sc
 Interactive Python Dashboards With plotly and Dash is from "Interactive Python Dashboards With plotly and Dash" from Jose Portilla.
 
 link: https://www.udemy.com/data-visualisation-with-plotly-and-python/
+
+Python for Financial Analysis and Algorithmic Trading is from "Python for Financial Analysis and Algorithmic Trading" from Jose Portilla.
+
+link : https://www.udemy.com/python-for-finance-and-trading-algorithms/learn/v4/content
