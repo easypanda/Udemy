@@ -24,3 +24,7 @@ link: https://www.udemy.com/data-visualisation-with-plotly-and-python/
 Python for Financial Analysis and Algorithmic Trading is from "Python for Financial Analysis and Algorithmic Trading" from Jose Portilla.
 
 link : https://www.udemy.com/python-for-finance-and-trading-algorithms/learn/v4/content
+
+Python and Flask Bootcamp: Create Websites using Flask! is from "Python and Flask Bootcamp: Create Websites using Flask!" from Jose Portilla.
+
+link : https://www.udemy.com/python-and-flask-bootcamp-create-websites-using-flask/learn/v4/content
