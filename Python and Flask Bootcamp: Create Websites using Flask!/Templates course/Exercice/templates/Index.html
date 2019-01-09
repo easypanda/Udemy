@@ -1,0 +1,20 @@
+{% extends "Base.html"%}
+{% block content %}
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4">Welcome to the Puppy User Name Check</h1>
+    <p class="lead">Let's see if your User Name is secure!</p>
+    <p class ="lead">Fill out the form below with a User Name that has these restraints</p>
+    <ul>
+      <li>Must have an upper case letter somewhere.</li>
+      <li>Must have an lower case letter somewhere.</li>
+      <li>Must have a number at the end.</li>
+    </ul>
+    <form action="{{url_for('Report')}}">
+       <label for="username">UserName</label>
+        <input type="text" name="username" placeholder="username">
+        <input type="submit" value="Submit Form">
+    </form>
+  </div>
+</div>
+{% endblock %}

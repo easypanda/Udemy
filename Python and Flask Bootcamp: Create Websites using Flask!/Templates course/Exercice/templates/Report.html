@@ -1,0 +1,22 @@
+{% extends "Base.html"%}
+{% block content %}
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <p class="lead">Let's see how you performed!</p>
+      {% if report %}
+      <p>Your password passed all checks!</p>
+      {%else%}
+      <ul>
+        <p>Here what is missing:</p>
+        {%if not lower_letter%}
+        <li>You did not use a lowercase.</li>
+        {%endif%}
+        {%if not upper_letter%}
+        <li>You did not use a uppercase.</li>
+        {%endif%}
+        {%if not num_end%}
+        <li>You did not use a number at the end of the password.</li>
+        {%endif%}
+      </ul>
+      {%endif%}
+{% endblock %}

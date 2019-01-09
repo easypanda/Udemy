@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <ul>
+      {% for item in mylist %}
+          <li>{{item}}</li>
+      {% endfor %}
+    </ul>
+    <h1>{{mylist}}!</h1>
+
+    {% if "Rufus" in mylist %}
+      <p>Found you Rufus!</p>
+    {%else%}
+      <p>Hum.. Rufus is not in this list</p>
+      {%endif%}
+</html>
