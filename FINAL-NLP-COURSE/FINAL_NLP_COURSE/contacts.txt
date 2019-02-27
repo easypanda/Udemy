@@ -1,0 +1,9 @@
+First_Name Last_Name, Title, Extension, Email
+
+ 
+my Baker, Finance Chair, x345, abaker@ourcompany.com
+ 
+Chris Donaldson, ccounting Dir., x621, cdonaldson@ourcompany.com
+ 
+Erin Freeman, r. VP, x879, efreeman@ourcompany.com
+ 
